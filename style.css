@@ -1,0 +1,27 @@
+
+.wrapper {
+    width: 260px;
+    margin: auto;
+  }
+  .myClass {
+    width: 335px;
+    margin: auto;
+  }
+  
+  .textIn{     
+    padding:10px 12px;
+    margin:auto;
+  }
+  
+  .wrapper button{
+      padding:12px;
+      background:orange;
+      border: none;
+  }
+  ul {
+    width: 183px;
+  }
+  li{
+      list-style: none;
+      border-bottom: 1px solid black;
+  }
